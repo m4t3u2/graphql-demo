@@ -1,2 +1,2 @@
-# graphql-demo
+# GraphQL Demo
 GraphQL Spring Boot - Get started
